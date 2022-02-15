@@ -1,0 +1,24 @@
+{
+    "1": [
+        "Apresentar",
+        [
+            "Olá, pronto para o próximo comando."
+        ]
+    ],
+    "2": [
+        "Mostrar um conselho",
+        [
+            "Estude ao menos 1 hora por dia.",
+            "Programe computador todos os dias",
+            "Faça ao menos 30 minutos de atividade física por dia.",
+            "Mantenha uma alimentação saudável com frutas, legumes e vegetais todos os dias.",
+            "Use máscara para impedir a propagação de epidemias respiratórias."
+        ]
+    ],
+    "3": [
+        "Mostrar despedida",
+        [
+            "Foi um prazer. Volte sempre."
+        ]
+    ]
+}
